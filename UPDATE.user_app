@@ -1,5 +1,15 @@
-版本号2.1.7版本号
+版本号2.1.8版本号
 
-哈哈哈哈
+更新内容做出一点小改动，让使用体验更佳
 
-下载地址https://raw.githubusercontent.com/geeks1230/-/master/%E5%AA%92%E5%8F%8B.apk下载地址
+微调布局
+优化布局，对话框化，减小卡顿
+缩小了启动时间
+指南针布局可随传感器倾斜
+新增仿轻风主页布局
+新增网页取源对话框
+关于页面可查看更新日志
+
+如果功能卡片点击会进入子页面两次，请清除软件数据更新内容
+
+下载地址https://github.com/DOGE-tt/Card-Browser-Source-Code/releases/download/2.1.4/card.browser_2.1.4.apk下载地址
